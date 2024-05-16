@@ -12,5 +12,6 @@ public class CalculadoraNetBeans {
 
     public static void main(String[] args) {
         System.out.println("me llamo pepe");
+        System.out.println("Hola chavales cómo estáis.");
     }
 }
