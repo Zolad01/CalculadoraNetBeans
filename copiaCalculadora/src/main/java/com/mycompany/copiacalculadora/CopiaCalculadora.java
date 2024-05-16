@@ -11,6 +11,6 @@ package com.mycompany.copiacalculadora;
 public class CopiaCalculadora {
 
     public static void main(String[] args) {
-        System.out.println("hola como estamos!");
+        System.out.println("Esta es una edición del archivo CopiaCalculadora.");
     }
 }
