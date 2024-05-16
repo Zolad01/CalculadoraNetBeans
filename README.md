@@ -6,4 +6,4 @@ Este es un comentario creado desde GitHub.
 
 Eeste es un comentario del ejercicio 6.
 
-rama1 v2
+rama1
