@@ -11,6 +11,6 @@ package com.mycompany.copiacalculadora;
 public class CopiaCalculadora {
 
     public static void main(String[] args) {
-        System.out.println("yes!");
+        System.out.println("hola como estamos!");
     }
 }
